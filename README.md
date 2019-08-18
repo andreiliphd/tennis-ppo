@@ -72,6 +72,12 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 6. The rest of dependencies come with `Conda` environment by default.
 
+7. In order to run training in a root of Github repositary run:
+```
+python solution.py
+```
+You can see that environment and training started.
+
 ---
 
 
