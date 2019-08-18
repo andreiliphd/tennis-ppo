@@ -1,7 +1,7 @@
-# Reacher - reinforcement learning DDPG implementation
+# Tennis - reinforcement learning PPO implementation
 ============
 
-Tennit is a reinforcement learning algorithm based on [PPO Paper](https://arxiv.org/abs/1707.06347). The environment is provided by Udacity as a part of deep reinfocement learning NanoDegree. In this environment, two agents are playing tennis with aim to reach average score of 0.5 over 100 episodes taking maximum score of the episode. 
+Tennis is a reinforcement learning algorithm based on [PPO Paper](https://arxiv.org/abs/1707.06347). The environment is provided by Udacity as a part of deep reinfocement learning nanodegree. In this environment, two agents are playing tennis with aim to reach average score of 0.5 over 100 episodes taking maximum score of the episode. 
 
 ---
 
