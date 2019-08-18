@@ -45,7 +45,7 @@ Taken from real training. Tennis environment in action. Close to the target:
 ![Tennis - solving environment](https://github.com/andreiliphd/tennis-ppo/blob/master/images/tennis.gif)
 
 Success!
-![Tennis - success](https://github.com/andreiliphd/tennis-ppo/blob/master/images/PyCharm.png)
+![Tennis - success](https://github.com/andreiliphd/tennis-ppo/blob/master/images/Screenshot_1.png)
 
 
 ---
