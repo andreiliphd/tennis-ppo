@@ -5,6 +5,22 @@ Tennis is a reinforcement learning algorithm based on [PPO Paper](https://arxiv.
 
 ---
 
+## History
+
+1. The simpliest approach is to make this project using DDPG but I wanted to challenge myself and I have chosen PPO. One of the reasons for choosing PPO is that Amazon AWS Deep Racer has been using PPO as a main reinforcement learning algortihm to run environment. And this choice is not a mistake at all. I enjoyed it very much as it produces very stable training result.
+
+2. I looked at the repos with implementation of tennis environment and I mentioned that there is not much to choose from. I looked at the repos with multi-agent reinforcement learning and the same result. There is not much to choose from. Very complicated project.
+
+3. I rewatched the course and added to my bookmarks [ShangtongZhang](https://github.com/ShangtongZhang/DeepRL) 2017 and Reacher environment by 
+[Jeremi Kaczmarczyk](https://github.com/jknthn/reacher-ppo) 2018. I watched these repos, got an idea and reimplemented from scratch as was suggested by Udacity.
+
+4. Happily it is working for two agents.
+
+
+---
+
+
+
 ## Features
 
 You can change:
