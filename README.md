@@ -44,9 +44,16 @@ You can change:
 Taken from real training. Tennis environment in action. Close to the target:
 ![Tennis - solving environment](https://github.com/andreiliphd/tennis-ppo/blob/master/images/tennis.gif)
 
+Success!
+![Tennis - success](https://github.com/andreiliphd/tennis-ppo/blob/master/images/PyCharm.png)
+
+
+---
+
+
 ## Rewards
 
-![Reacher - loss](https://github.com/andreiliphd/reacher-ddpg-ppo/blob/master/output_40_2.png)
+![Tennid - rewards](https://github.com/andreiliphd/tennis-ppo/blob/master/images/Figure_1.png)
 
 
 ---
